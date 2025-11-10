@@ -1,7 +1,7 @@
 <h1 align="center">Hola! I'm ZyVoir / William👋</h1>
 
-👨‍💻	2nd Year CS Student (SoCS) majoring in Mobile Application and Technology at Bina Nusantara (BINUS) University, Indonesia!<br/>
-📱   Currently pursuing Full Stack Dev and Mobile Dev<br/>
+👨‍💻	Final Year CS Student (SoCS) majoring in Mobile Application and Technology at Bina Nusantara (BINUS) University, Indonesia!<br/>
+📱   Currently pursuing Mobile Dev (iOS, Android, Flutter) & Full Stack Dev<br/>
 💻	Always tinkering with code and exploring new technologies<br/>
 🌱	Continuously learning and expanding my skills<br/>
 
@@ -9,8 +9,10 @@
 Hi there! The name's William. I'm a sophomore majoring in Computer Science and diving headfirst into the world of code. With a keen interest in mobile development, I'm constantly exploring the ever-evolving landscape of apps and interfaces. From tinkering with new frameworks to diving deep into the intricacies of software design, I'm always eager to learn and passionate about the world of codes!
 
 ## ✨ Main Projects
-- ZenithAR
+- GradeUp
 - Rentify
+- AMplify
+- MonKi
 
 
 ## Connect with me 
