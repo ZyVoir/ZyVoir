@@ -1,11 +1,12 @@
 # 💫 Hi there! The name's William.
 
-## 💫 About Me:
-I'm a final year CS Student majoring in Mobile Application and Technology and diving headfirst into the world of code. With a keen interest in mobile development, I'm constantly exploring the ever-evolving landscape of apps and interfaces. From tinkering with new frameworks to diving deep into the intricacies of software design, I'm always eager to learn and passionate about the world of codes!<br><br>
-
-📱 Currently pursuing Mobile Dev (iOS, Android, Flutter) & Back end Dev<br>
-💻 Always tinkering with code and exploring new technologies<br>
-🌱 Continuously learning and expanding my skills
+### About Me:
+- 🎓 Final-year Computer Science student majoring in Mobile Application & Technology
+- 🍎 Apple Developer Academy Graduate
+- 📱 Strong interest in mobile development (iOS, Android, Flutter)
+- 🧠 Enjoys exploring new frameworks and software design principles
+- 💻 Actively building and tinkering with code across frontend & backend
+- 🌱 Passionate about continuous learning and evolving with technology
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/william-whcs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:whcs.william@gmail.com) 
